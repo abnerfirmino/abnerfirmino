@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abnerfirmino
-- 👀 I’m interested in Web, and Software Development.
+- 👀 I’m interested in Web Development, and Software Development.
 - 🌱 I’m currently learning Python, Django and Flask.
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ I’m exciting creating scalable softwares, and Web aplications.
 
 <!---
 abnerfirmino/abnerfirmino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
