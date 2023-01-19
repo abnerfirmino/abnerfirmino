@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abnerfirmino
 - 👀 I’m interested in Web Development, and Software Development.
-- 🌱 I’m currently learning Python and Django
+- 🌱 I've been learning React js, HTML5, and CSS3.
 - 💞️ I’m exciting on creating scalable softwares, and Web aplications.
 
 <!---
